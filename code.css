@@ -1,0 +1,37 @@
+h1{
+	color: darkblue;
+}
+
+.elements{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+h2{
+	border: 2px solid black;
+	padding: 10px;
+	width: 100px;
+	display: inline-block;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 20%;
+	color: black;
+
+}
+
+.allgirl {
+	display: flex; /* This makes the container a flex container */
+	justify-content: space-evenly; /* This evenly distributes the space between the items inside the container */
+}
+
+.girlcontainer {
+	text-align: center; /* Centers the text within the container horizontally */
+}
+
+.girlname {
+	text-align: center; /* Centers the text horizontally */
+}
+
+.studentprofile {
+	text-decoration: none; /* Removes the underline decoration from links */
+}
